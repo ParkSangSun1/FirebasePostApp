@@ -7,7 +7,7 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "Clean_Architecture_Sample"
+rootProject.name = "FirebasePostApp"
 include ':app'
 include ':domain'
 include ':data'

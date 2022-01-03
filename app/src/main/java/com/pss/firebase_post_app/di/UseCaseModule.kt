@@ -1,4 +1,4 @@
-package com.pss.clean_architecture_sample.di
+package com.pss.firebase_post_app.di
 
 import com.pss.domain.repository.MainRepository
 import com.pss.domain.usecase.TestUseCase

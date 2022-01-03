@@ -1,4 +1,4 @@
-package com.pss.clean_architecture_sample.di
+package com.pss.firebase_post_app.di
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

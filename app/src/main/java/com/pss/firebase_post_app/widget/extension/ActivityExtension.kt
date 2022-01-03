@@ -1,4 +1,4 @@
-package com.pss.clean_architecture_sample.widget.extension
+package com.pss.firebase_post_app.widget.extension
 
 import android.content.Context
 import android.content.Intent

@@ -1,4 +1,4 @@
-package com.pss.clean_architecture_sample.viewmode
+package com.pss.firebase_post_app.viewmode
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

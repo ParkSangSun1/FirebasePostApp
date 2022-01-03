@@ -1,4 +1,4 @@
-package com.pss.clean_architecture_sample
+package com.pss.firebase_post_app
 
 import org.junit.Test
 

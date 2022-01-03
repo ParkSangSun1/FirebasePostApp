@@ -1,4 +1,4 @@
-package com.pss.clean_architecture_sample.widget.utils
+package com.pss.firebase_post_app.widget.utils
 
 import android.util.Log
 import androidx.annotation.MainThread

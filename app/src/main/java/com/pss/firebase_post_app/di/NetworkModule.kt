@@ -1,7 +1,7 @@
-package com.pss.clean_architecture_sample.di
+package com.pss.firebase_post_app.di
 
 import com.pss.data.remote.api.SampleApi
-import com.pss.clean_architecture_sample.widget.utils.Utils.BASE_URL
+import com.pss.firebase_post_app.widget.utils.Utils.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

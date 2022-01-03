@@ -1,4 +1,4 @@
-package com.pss.clean_architecture_sample.base
+package com.pss.firebase_post_app.base
 
 import android.os.Bundle
 import android.widget.Toast
